@@ -6,3 +6,6 @@ git clone https://github.com/saidjami/100daysofcode.git
 ```
 ## 📌 Day 1 - Project 1: band-name-generator
 On day 1 of programming I coded band-name-generator. You write the name of your birthplace, then the name of your first pet. And it combines them to make a band name. Look at this code and write your own band-name-generator. Click [here](https://github.com/saidjami/100daysofcode/tree/main/Day-1%20band-name-generator) to access the code. Good coding.
+
+## 📌 Day 2 - Project 2: tip-calculator
+On the 2nd day of programming, I coded Tip Calculator. First you write the total bill, then how many tips you will give in 100, and finally how many people the bill will be divided between. Finally it tells you how much each person has to pay. Look at this code and write your tip calculator. Click [here](https://github.com/saidjami/100daysofcode/tree/main/Day-2%20tip-calculator) to access the code. Good coding :)
