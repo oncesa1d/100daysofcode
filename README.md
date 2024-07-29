@@ -9,3 +9,6 @@ On day 1 of programming I coded band-name-generator. You write the name of your 
 
 ## 📌 Day 2 - Project 2: tip-calculator
 On the 2nd day of programming, I coded Tip Calculator. First you write the total bill, then how many tips you will give in 100, and finally how many people the bill will be divided between. Finally it tells you how much each person has to pay. Look at this code and write your tip calculator. Click [here](https://github.com/saidjami/100daysofcode/tree/main/Day-2%20tip-calculator) to access the code. Good coding :)
+
+## 📌 Day 3 - Project 3: treasure island
+On the second day of programming, I coded "treasure island". A simple adventure game where you choose the direction you want, answering questions. Look at this code and code your own "treasure island". Click [here](https://github.com/saidjami/100daysofcode/tree/main/Day-3%20treasure%20island) to access the code. Happy coding :)
