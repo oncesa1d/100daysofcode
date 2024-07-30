@@ -14,4 +14,4 @@ On the 2nd day of programming, I coded Tip Calculator. First you write the total
 On the second day of programming, I coded "treasure island". A simple adventure game where you choose the direction you want, answering questions. Look at this code and code your own "treasure island". Click [here](https://github.com/saidjami/100daysofcode/tree/main/Day-3%20treasure%20island) to access the code. Happy coding :)
 
 ## 📌 Day 4 - Project 4: rock-paper-scissors
-On the 4th day of coding, I coded a normal rock paper scissors game. You can code your own rock paper scissors game by looking at this code. Click (here)[https://github.com/saidjami/100daysofcode/tree/main/Day-4%20rock-paper-scissors] to access the code. Happy coding :).
+On the 4th day of coding, I coded a normal rock paper scissors game. You can code your own rock paper scissors game by looking at this code. Click [here](https://github.com/saidjami/100daysofcode/tree/main/Day-4%20rock-paper-scissors) to access the code. Happy coding :).
