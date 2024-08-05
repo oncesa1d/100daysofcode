@@ -1,7 +1,6 @@
 import random
 import modules
-
-words= ["cave", "baboon", "camel"]
+import words
 
 lives = 6
 chosen_word = random.choice(words)
