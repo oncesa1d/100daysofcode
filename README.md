@@ -17,4 +17,4 @@ On the second day of programming, I coded "treasure island". A simple adventure 
 On the 4th day of programming, I coded a password generator. You write how many letters, how many numbers, how many symbols you want in your password. Then it generates password for you. Click [here](https://github.com/saidjami/100daysofcode/tree/main/Day-4%20password-generator) to access the code. Good coding :)
 
 ## 📌 Day 5 - Project 5: rock-paper-scissors
-On the 5th day of coding, I coded a normal rock paper scissors game. You can code your own rock paper scissors game by looking at this code. Click [here]([https://github.com/saidjami/100daysofcode/tree/main/Day-4%20rock-paper-scissors](https://github.com/saidjami/100daysofcode/tree/main/Day-5%20rock-paper-scissors)) to access the code. Happy coding :).
+On the 5th day of coding, I coded a normal rock paper scissors game. You can code your own rock paper scissors game by looking at this code. Click [here](https://github.com/saidjami/100daysofcode/tree/main/Day-5%20rock-paper-scissors) to access the code. Happy coding :).
