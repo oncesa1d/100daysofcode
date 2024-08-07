@@ -26,3 +26,6 @@ In this game you try to find the hidden word by typing random letters. If you ty
 ## 📌 Day 7 - Project 7: ceasar cipher
 Caesar Cipher is an old text encryption method. You write a text and you write how many letters you want to shift the letters of that text. Click [here](https://appbrewery.github.io/python-day8-demo/) to try the code.
 To access the code, click [here](https://github.com/oncesa1d/100daysofcode/tree/main/Day-7%20caesar-cipher). Good coding.
+
+## 📌 Day 8 - Projeckt 8: calculator
+It is a basic calculator. To access the code, click [here](https://github.com/oncesa1d/100daysofcode/tree/main/Day-8%20calculator)
