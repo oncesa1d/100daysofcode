@@ -24,5 +24,5 @@ This is a normal game of rock, paper, scissors. If you are not familiar with the
 In this game you try to find the hidden word by typing random letters. If you type too many wrong letters you will lose. If you don't know much about hangman, [click here](https://en.wikipedia.org/wiki/Hangman_(game)). Click [here](https://github.com/itsa1d/100daysofcode/tree/main/Day-6%20hangman) to access the code. Have a good coding ;).
 
 ## 📌 Day 7 - Project 7: ceasar cipher
-Caesar Cipher is an old text encryption method. You write a text and you write how many letters you want to shift the letters of that text. Click [here](https://appbrewery.github.io/python-day8-demo/) and click "run" to try the code.
+Caesar Cipher is an old text encryption method. You write a text and you write how many letters you want to shift the letters of that text. Click [here](https://appbrewery.github.io/python-day8-demo/) to try the code.
 To access the code, click [here](https://github.com/oncesa1d/100daysofcode/tree/main/Day-7%20caesar-cipher). Good coding.
