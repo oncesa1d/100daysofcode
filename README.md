@@ -28,7 +28,7 @@ Caesar Cipher is an old text encryption method. You write a text and you write h
 To access the code, click [here](https://github.com/oncesa1d/100daysofcode/tree/main/Day-7%20caesar-cipher). Good coding.
 
 ## 📌 Day 8 - Projeckt 8: calculator
-It is a basic calculator. To access the code, click [here](https://github.com/oncesa1d/100daysofcode/tree/main/Day-8%20calculator)
+It is a calculator. Click [here](https://appbrewery.github.io/python-day10-demo/) to try the code. To access the code, click [here](https://github.com/oncesa1d/100daysofcode/tree/main/Day-8%20calculator)
 
 ## 📌 Day 9 - Project 9: secret auction program
 In this programme, you write your bid together with your friends in an auction. But you do not see the bid written by other people. Thus, it tells you at the end who has put more bids. Click [here](https://appbrewery.github.io/python-day9-demo/) to try the code. Click [here](https://github.com/oncesa1d/100daysofcode/tree/main/Day-9%20secret%20auction%20program) to access the code. Have a good codin ;)
