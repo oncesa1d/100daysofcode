@@ -2,7 +2,7 @@
 I will share 100 python projects in 100 days in this repository. You can practice by looking at the projects here while learning python. Don't forget to star the repository :). Good coding 🎇
 
 ```
-git clone https://github.com/saidjami/100daysofcode.git
+git clone https://github.com/oncesa1d/100daysofcode.git
 ```
 ## 📌 Day 1 - Project 1: band-name-generator
 This is a band name generator. You type in the city you were born in and the name of your pet. And it creates a band name by combining these two. Click [here](https://appbrewery.github.io/python-day1-demo/) to try the code.
