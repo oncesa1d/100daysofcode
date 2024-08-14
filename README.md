@@ -32,3 +32,6 @@ It is a calculator. Click [here](https://appbrewery.github.io/python-day10-demo/
 
 ## 📌 Day 9 - Project 9: secret auction program
 In this programme, you write your bid together with your friends in an auction. But you do not see the bid written by other people. Thus, it tells you at the end who has put more bids. Click [here](https://appbrewery.github.io/python-day9-demo/) to try the code. Click [here](https://github.com/oncesa1d/100daysofcode/tree/main/secret%20auction%20program) to access the code. Have a good codin ;)
+
+## 📌 Day 10 - Project 10: blackjack
+loading...
