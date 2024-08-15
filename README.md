@@ -35,3 +35,6 @@ In this programme, you write your bid together with your friends in an auction. 
 
 ## 📌 Day 10 - Project 10: blackjack
 loading...
+
+## 📌 Day 11 - Project 11: number guessing game
+loading...
